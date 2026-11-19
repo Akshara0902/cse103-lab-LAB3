@@ -50,3 +50,13 @@ python3 main.py
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+## Coding Profiles
+
+- HackerRank: [your-username](https://www.hackerrank.com/profile/guptakshara2409)
+- LeetCode: [your-username](https://leetcode.com/u/your-username)
+- freeCodeCamp: [your-username](https://www.freecodecamp.org/your-username)
+
+## Certificate
+
+- [HackerRank Python (Basic)](./hackerrank_python_basic.pdf), earned 15 November 2026

@@ -59,4 +59,4 @@ python3 main.py
 
 ## Certificate
 
-- [HackerRank Python (Basic)](./hackerrank_python_basic.pdf), earned 15 November 2026
+- [HackerRank Python (Basic)](./hackerrank_python_basic.pdf)

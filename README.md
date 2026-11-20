@@ -51,12 +51,42 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
-## Coding Profiles
+# Coding Platform Progress Tracker
 
-- HackerRank: [your-username](https://www.hackerrank.com/profile/guptakshara2409)
-- LeetCode: [your-username](https://leetcode.com/u/your-username)
-- freeCodeCamp: [your-username](https://www.freecodecamp.org/your-username)
+## HackerRank
 
-## Certificate
+- Profile URL: https://www.hackerrank.com/profile/guptakshara2409]
+- Problems solved: 3 (Say Hello, Python If-Else, Arithmetic Operators)
+- Skill test taken: Python (Basic)
+- Certificate: [HackerRank Python (Basic)](./hackerrank_python_basic.pdf)
 
-- [HackerRank Python (Basic)](./hackerrank_python_basic.pdf)
+## LeetCode
+
+- Profile URL: https://leetcode.com/u/akshara0902/]
+- Easy attempted: 2 (Two Sum, Palindrome Number)
+- Easy solved: done
+- Medium attempted: 0
+
+## freeCodeCamp
+
+- Profile URL: https://www.freecodecamp.org/Akshara_Gupta_09]
+- Current track: Responsive Web Design
+- Steps completed: 88
+
+---
+
+## Weekly Goals (update every Monday)
+
+Week of [20 Nov]:
+
+- [Done] 3 HackerRank Python problems
+- [Done] 1 LeetCode Easy problem
+- [Done] 10 freeCodeCamp steps
+
+---
+
+## Monthly Milestones
+
+- Month 1: Complete 10 HackerRank problems, attempt Python Basic test
+- Month 2: Solve 10 LeetCode Easy problems, complete HTML LAB on freeCodeCamp
+- Month 3: Earn HackerRank Python Basic certificate, reach 25 LeetCode Easy problems

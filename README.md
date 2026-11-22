@@ -62,14 +62,14 @@ python3 main.py
 
 ## LeetCode
 
-- Profile URL: https://leetcode.com/u/akshara0902/]
+- Profile URL: https://leetcode.com/u/akshara0902/
 - Easy attempted: 2 (Two Sum, Palindrome Number)
 - Easy solved: done
 - Medium attempted: 0
 
 ## freeCodeCamp
 
-- Profile URL: https://www.freecodecamp.org/Akshara_Gupta_09]
+- Profile URL: https://www.freecodecamp.org/Akshara_Gupta_09
 - Current track: Responsive Web Design
 - Steps completed: 88
 

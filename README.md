@@ -55,7 +55,7 @@ python3 main.py
 
 ## HackerRank
 
-- Profile URL: https://www.hackerrank.com/profile/guptakshara2409]
+- Profile URL: https://www.hackerrank.com/profile/guptakshara2409
 - Problems solved: 3 (Say Hello, Python If-Else, Arithmetic Operators)
 - Skill test taken: Python (Basic)
 - Certificate: [HackerRank Python (Basic)](./hackerrank_python_basic.pdf)
